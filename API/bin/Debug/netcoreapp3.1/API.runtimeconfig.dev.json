@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\datagain-mayank\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\datagain-mayank\\.nuget\\packages"
+    ]
+  }
+}
