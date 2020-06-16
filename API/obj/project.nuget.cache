@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "zV0QzGMn8Iz8kxWtbdVhdpBpKnlHjP25BKJ2hO/BsUxwgHr0Aogi7F8Zmzxe4bvrULZxBrMwhuGMH3ru/CeLEA==",
+  "dgSpecHash": "SeKQ6mIBubA8CQD0grn1bdsVBEpLJLwB1Y/ulPJLCoVu6MZKcy5BChmf4hc+z8AJuUyrFxIRK2PbJCe3nGJiVQ==",
   "success": true,
   "projectFilePath": "E:\\Our Project Data\\project-e\\API\\API.csproj",
   "expectedPackageFiles": [
@@ -83,6 +83,7 @@
     "C:\\Users\\datagain-mayank\\.nuget\\packages\\system.text.encoding\\4.3.0\\system.text.encoding.4.3.0.nupkg.sha512",
     "C:\\Users\\datagain-mayank\\.nuget\\packages\\system.text.encoding.codepages\\4.5.0\\system.text.encoding.codepages.4.5.0.nupkg.sha512",
     "C:\\Users\\datagain-mayank\\.nuget\\packages\\system.text.encoding.extensions\\4.3.0\\system.text.encoding.extensions.4.3.0.nupkg.sha512",
+    "C:\\Users\\datagain-mayank\\.nuget\\packages\\system.text.json\\4.7.1\\system.text.json.4.7.1.nupkg.sha512",
     "C:\\Users\\datagain-mayank\\.nuget\\packages\\system.text.regularexpressions\\4.3.0\\system.text.regularexpressions.4.3.0.nupkg.sha512",
     "C:\\Users\\datagain-mayank\\.nuget\\packages\\system.threading\\4.3.0\\system.threading.4.3.0.nupkg.sha512",
     "C:\\Users\\datagain-mayank\\.nuget\\packages\\system.threading.tasks\\4.3.0\\system.threading.tasks.4.3.0.nupkg.sha512",

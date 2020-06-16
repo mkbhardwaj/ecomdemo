@@ -12,12 +12,14 @@ using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
 using Infrastructure.Data;
 using Microsoft.EntityFrameworkCore;
+using Core.Interfaces;
+using infrastructure.Data;
 
 namespace API
 {
     public class Startup
     {
-        private IConfiguration _configuration {set;get;}
+        private IConfiguration _configuration { set; get; }
         public Startup(IConfiguration configuration)
         {
             _configuration = configuration;
@@ -26,6 +28,9 @@ namespace API
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
+            //services.AddScoped<IProductRepository, ProductRepository>(); // object will be available for a request only - transient -> method, signleton - lifetime
+            services.AddScoped(typeof(IGenericRepository<>), typeof(GenericRepository<>));
+            
             services.AddControllers();
             services.AddDbContext<StoreContext>(option => option.UseSqlServer(_configuration.GetConnectionString("DefaultConnection")));
         }

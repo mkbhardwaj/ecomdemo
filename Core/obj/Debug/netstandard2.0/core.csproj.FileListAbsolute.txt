@@ -2,8 +2,8 @@ E:\Our Project Data\project-e\core\bin\Debug\netstandard2.0\core.deps.json
 E:\Our Project Data\project-e\core\bin\Debug\netstandard2.0\core.dll
 E:\Our Project Data\project-e\core\bin\Debug\netstandard2.0\core.pdb
 E:\Our Project Data\project-e\core\obj\Debug\netstandard2.0\core.csprojAssemblyReference.cache
-E:\Our Project Data\project-e\core\obj\Debug\netstandard2.0\core.csproj.CoreCompileInputs.cache
 E:\Our Project Data\project-e\core\obj\Debug\netstandard2.0\core.AssemblyInfoInputs.cache
 E:\Our Project Data\project-e\core\obj\Debug\netstandard2.0\core.AssemblyInfo.cs
 E:\Our Project Data\project-e\core\obj\Debug\netstandard2.0\core.dll
 E:\Our Project Data\project-e\core\obj\Debug\netstandard2.0\core.pdb
+E:\Our Project Data\project-e\core\obj\Debug\netstandard2.0\core.csproj.CoreCompileInputs.cache
