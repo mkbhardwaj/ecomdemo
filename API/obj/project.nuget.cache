@@ -1,9 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "SeKQ6mIBubA8CQD0grn1bdsVBEpLJLwB1Y/ulPJLCoVu6MZKcy5BChmf4hc+z8AJuUyrFxIRK2PbJCe3nGJiVQ==",
+  "dgSpecHash": "PeF5e/8JbPVl1p4M3LbDyBVgTk455UKmvoVTJ39kIJ1CUpUYczy97QsPX7cz9N1htrbjjKfwxNwfrxTOUJfA1w==",
   "success": true,
   "projectFilePath": "E:\\Our Project Data\\project-e\\API\\API.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\datagain-mayank\\.nuget\\packages\\automapper\\9.0.0\\automapper.9.0.0.nupkg.sha512",
+    "C:\\Users\\datagain-mayank\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\7.0.0\\automapper.extensions.microsoft.dependencyinjection.7.0.0.nupkg.sha512",
     "C:\\Users\\datagain-mayank\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.0\\microsoft.bcl.asyncinterfaces.1.1.0.nupkg.sha512",
     "C:\\Users\\datagain-mayank\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.0\\microsoft.bcl.hashcode.1.1.0.nupkg.sha512",
     "C:\\Users\\datagain-mayank\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

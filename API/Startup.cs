@@ -14,6 +14,8 @@ using Infrastructure.Data;
 using Microsoft.EntityFrameworkCore;
 using Core.Interfaces;
 using infrastructure.Data;
+using AutoMapper;
+using API.Helpers;
 
 namespace API
 {
@@ -30,7 +32,7 @@ namespace API
         {
             //services.AddScoped<IProductRepository, ProductRepository>(); // object will be available for a request only - transient -> method, signleton - lifetime
             services.AddScoped(typeof(IGenericRepository<>), typeof(GenericRepository<>));
-            
+            services.AddAutoMapper(typeof(MappingProfile));
             services.AddControllers();
             services.AddDbContext<StoreContext>(option => option.UseSqlServer(_configuration.GetConnectionString("DefaultConnection")));
         }
@@ -53,6 +55,7 @@ namespace API
             {
                 endpoints.MapControllers();
             });
+            app.UseStaticFiles();
         }
     }
 }

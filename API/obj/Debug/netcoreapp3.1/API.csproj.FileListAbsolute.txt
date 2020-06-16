@@ -54,4 +54,6 @@ E:\Our Project Data\project-e\API\bin\Debug\netcoreapp3.1\infrastructure.dll
 E:\Our Project Data\project-e\API\bin\Debug\netcoreapp3.1\core.pdb
 E:\Our Project Data\project-e\API\bin\Debug\netcoreapp3.1\infrastructure.pdb
 E:\Our Project Data\project-e\API\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+E:\Our Project Data\project-e\API\bin\Debug\netcoreapp3.1\AutoMapper.dll
+E:\Our Project Data\project-e\API\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
 E:\Our Project Data\project-e\API\obj\Debug\netcoreapp3.1\API.csproj.CoreCompileInputs.cache
