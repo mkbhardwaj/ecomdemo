@@ -1,7 +1,7 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Our Project Data\\project-e\\Infrastructure\\infrastructure.csproj": {}
+    "E:\\Our Project Data\\project-e\\infrastructure\\infrastructure.csproj": {}
   },
   "projects": {
     "E:\\Our Project Data\\project-e\\core\\core.csproj": {
@@ -59,14 +59,14 @@
         }
       }
     },
-    "E:\\Our Project Data\\project-e\\Infrastructure\\infrastructure.csproj": {
+    "E:\\Our Project Data\\project-e\\infrastructure\\infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Our Project Data\\project-e\\Infrastructure\\infrastructure.csproj",
+        "projectUniqueName": "E:\\Our Project Data\\project-e\\infrastructure\\infrastructure.csproj",
         "projectName": "infrastructure",
-        "projectPath": "E:\\Our Project Data\\project-e\\Infrastructure\\infrastructure.csproj",
+        "projectPath": "E:\\Our Project Data\\project-e\\infrastructure\\infrastructure.csproj",
         "packagesPath": "C:\\Users\\datagain-mayank\\.nuget\\packages\\",
-        "outputPath": "E:\\Our Project Data\\project-e\\Infrastructure\\obj\\",
+        "outputPath": "E:\\Our Project Data\\project-e\\infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\datagain-mayank\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -82,8 +82,8 @@
         "frameworks": {
           "netstandard2.0": {
             "projectReferences": {
-              "E:\\Our Project Data\\project-e\\core\\core.csproj": {
-                "projectPath": "E:\\Our Project Data\\project-e\\core\\core.csproj"
+              "E:\\Our Project Data\\project-e\\Core\\core.csproj": {
+                "projectPath": "E:\\Our Project Data\\project-e\\Core\\core.csproj"
               }
             }
           }
