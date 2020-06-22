@@ -8477,8 +8477,8 @@
     },
     "infrastructure/1.0.0": {
       "type": "project",
-      "path": "../infrastructure/infrastructure.csproj",
-      "msbuildProject": "../infrastructure/infrastructure.csproj"
+      "path": "../Infrastructure/infrastructure.csproj",
+      "msbuildProject": "../Infrastructure/infrastructure.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -8587,7 +8587,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
       }
     }
   },

@@ -10,6 +10,8 @@ using AutoMapper;
 using API.DTO;
 using Microsoft.AspNetCore.Http;
 using API.Errors;
+using API.Helpers;
+using core.Specifications;
 
 namespace API.Controllers
 {
@@ -27,14 +29,22 @@ namespace API.Controllers
             _prodcutBrandRepo = productBrandRepo;
             _prodcutTypeRepo = productTypeRepo;
             _mapper = mapper;
+            
         }
 
         [HttpGet]
-        public async Task<ActionResult<IReadOnlyCollection<ProductToReturnDto>>> GetProducts()
+        
+        public async Task<ActionResult<Pagination<ProductToReturnDto>>> GetProducts(
+           [FromQuery] ProductSpecParams param)
         {
-            var spec = new ProductWithTypesAndBrandsSpecification();
+           
+            var spec = new ProductWithTypesAndBrandsSpecification(param);
+            var countSpec = new ProductWithTypesAndBrandsCountSpecification(param);
+            var count = await _prodcutRepo.CountAsync(countSpec);
             var products = await _prodcutRepo.ListAsync(spec);
-            return Ok(_mapper.Map<IReadOnlyCollection<Product>, IReadOnlyCollection<ProductToReturnDto>>(products));
+            var productRto= _mapper.Map<IReadOnlyCollection<Product>, IReadOnlyCollection<ProductToReturnDto>>(products);
+            var res = new Pagination<ProductToReturnDto>(param.PageIndex, param.PageSize, count,(IReadOnlyList<ProductToReturnDto>)productRto);
+            return Ok(res);
         }
 
         [HttpGet("{id}")] // {id} will be the parameter here.

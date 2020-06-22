@@ -58,6 +58,10 @@ namespace API
             {
                 c.SwaggerDoc("v1", new Microsoft.OpenApi.Models.OpenApiInfo { Version = "v1", Title = "Ecom Trial" });
             });
+            services.AddCors(m => m.AddPolicy("CorsPolicy", p =>
+            {
+                p.AllowAnyHeader().AllowAnyMethod().WithOrigins("https://localhost:4200");
+            }));
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -74,6 +78,7 @@ namespace API
 
             app.UseRouting();
 
+            app.UseCors("CorsPolicy"); // middleware to allow other origin request.
             app.UseAuthorization();
 
             app.UseEndpoints(endpoints =>
