@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Our Project Data\\project-e\\core\\core.csproj": {}
+    "e:\\Our Project Data\\project-e\\Core\\core.csproj": {}
   },
   "projects": {
-    "E:\\Our Project Data\\project-e\\core\\core.csproj": {
+    "e:\\Our Project Data\\project-e\\Core\\core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Our Project Data\\project-e\\core\\core.csproj",
+        "projectUniqueName": "e:\\Our Project Data\\project-e\\Core\\core.csproj",
         "projectName": "core",
-        "projectPath": "E:\\Our Project Data\\project-e\\core\\core.csproj",
+        "projectPath": "e:\\Our Project Data\\project-e\\Core\\core.csproj",
         "packagesPath": "C:\\Users\\datagain-mayank\\.nuget\\packages\\",
-        "outputPath": "E:\\Our Project Data\\project-e\\core\\obj\\",
+        "outputPath": "e:\\Our Project Data\\project-e\\Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\datagain-mayank\\AppData\\Roaming\\NuGet\\NuGet.Config",

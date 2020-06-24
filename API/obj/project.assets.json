@@ -8500,11 +8500,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Our Project Data\\project-e\\API\\API.csproj",
+      "projectUniqueName": "e:\\Our Project Data\\project-e\\API\\API.csproj",
       "projectName": "API",
-      "projectPath": "E:\\Our Project Data\\project-e\\API\\API.csproj",
+      "projectPath": "e:\\Our Project Data\\project-e\\API\\API.csproj",
       "packagesPath": "C:\\Users\\datagain-mayank\\.nuget\\packages\\",
-      "outputPath": "E:\\Our Project Data\\project-e\\API\\obj\\",
+      "outputPath": "e:\\Our Project Data\\project-e\\API\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\datagain-mayank\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -8520,11 +8520,11 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "E:\\Our Project Data\\project-e\\core\\core.csproj": {
-              "projectPath": "E:\\Our Project Data\\project-e\\core\\core.csproj"
+            "e:\\Our Project Data\\project-e\\core\\core.csproj": {
+              "projectPath": "e:\\Our Project Data\\project-e\\core\\core.csproj"
             },
-            "E:\\Our Project Data\\project-e\\Infrastructure\\infrastructure.csproj": {
-              "projectPath": "E:\\Our Project Data\\project-e\\Infrastructure\\infrastructure.csproj"
+            "e:\\Our Project Data\\project-e\\Infrastructure\\infrastructure.csproj": {
+              "projectPath": "e:\\Our Project Data\\project-e\\Infrastructure\\infrastructure.csproj"
             }
           }
         }

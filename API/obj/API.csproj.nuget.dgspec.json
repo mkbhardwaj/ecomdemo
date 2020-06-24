@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Our Project Data\\project-e\\API\\API.csproj": {}
+    "e:\\Our Project Data\\project-e\\API\\API.csproj": {}
   },
   "projects": {
-    "E:\\Our Project Data\\project-e\\API\\API.csproj": {
+    "e:\\Our Project Data\\project-e\\API\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Our Project Data\\project-e\\API\\API.csproj",
+        "projectUniqueName": "e:\\Our Project Data\\project-e\\API\\API.csproj",
         "projectName": "API",
-        "projectPath": "E:\\Our Project Data\\project-e\\API\\API.csproj",
+        "projectPath": "e:\\Our Project Data\\project-e\\API\\API.csproj",
         "packagesPath": "C:\\Users\\datagain-mayank\\.nuget\\packages\\",
-        "outputPath": "E:\\Our Project Data\\project-e\\API\\obj\\",
+        "outputPath": "e:\\Our Project Data\\project-e\\API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\datagain-mayank\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -27,11 +27,11 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "E:\\Our Project Data\\project-e\\core\\core.csproj": {
-                "projectPath": "E:\\Our Project Data\\project-e\\core\\core.csproj"
+              "e:\\Our Project Data\\project-e\\core\\core.csproj": {
+                "projectPath": "e:\\Our Project Data\\project-e\\core\\core.csproj"
               },
-              "E:\\Our Project Data\\project-e\\Infrastructure\\infrastructure.csproj": {
-                "projectPath": "E:\\Our Project Data\\project-e\\Infrastructure\\infrastructure.csproj"
+              "e:\\Our Project Data\\project-e\\Infrastructure\\infrastructure.csproj": {
+                "projectPath": "e:\\Our Project Data\\project-e\\Infrastructure\\infrastructure.csproj"
               }
             }
           }
@@ -98,14 +98,14 @@
         }
       }
     },
-    "E:\\Our Project Data\\project-e\\core\\core.csproj": {
+    "e:\\Our Project Data\\project-e\\core\\core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Our Project Data\\project-e\\core\\core.csproj",
+        "projectUniqueName": "e:\\Our Project Data\\project-e\\core\\core.csproj",
         "projectName": "core",
-        "projectPath": "E:\\Our Project Data\\project-e\\core\\core.csproj",
+        "projectPath": "e:\\Our Project Data\\project-e\\core\\core.csproj",
         "packagesPath": "C:\\Users\\datagain-mayank\\.nuget\\packages\\",
-        "outputPath": "E:\\Our Project Data\\project-e\\core\\obj\\",
+        "outputPath": "e:\\Our Project Data\\project-e\\core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\datagain-mayank\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -153,14 +153,14 @@
         }
       }
     },
-    "E:\\Our Project Data\\project-e\\Infrastructure\\infrastructure.csproj": {
+    "e:\\Our Project Data\\project-e\\Infrastructure\\infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Our Project Data\\project-e\\Infrastructure\\infrastructure.csproj",
+        "projectUniqueName": "e:\\Our Project Data\\project-e\\Infrastructure\\infrastructure.csproj",
         "projectName": "infrastructure",
-        "projectPath": "E:\\Our Project Data\\project-e\\Infrastructure\\infrastructure.csproj",
+        "projectPath": "e:\\Our Project Data\\project-e\\Infrastructure\\infrastructure.csproj",
         "packagesPath": "C:\\Users\\datagain-mayank\\.nuget\\packages\\",
-        "outputPath": "E:\\Our Project Data\\project-e\\Infrastructure\\obj\\",
+        "outputPath": "e:\\Our Project Data\\project-e\\Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\datagain-mayank\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -176,8 +176,8 @@
         "frameworks": {
           "netstandard2.0": {
             "projectReferences": {
-              "E:\\Our Project Data\\project-e\\core\\core.csproj": {
-                "projectPath": "E:\\Our Project Data\\project-e\\core\\core.csproj"
+              "e:\\Our Project Data\\project-e\\core\\core.csproj": {
+                "projectPath": "e:\\Our Project Data\\project-e\\core\\core.csproj"
               }
             }
           }
