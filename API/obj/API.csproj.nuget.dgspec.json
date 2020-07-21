@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "e:\\Our Project Data\\project-e\\API\\API.csproj": {}
+    "E:\\Our Project Data\\project-e\\API\\API.csproj": {}
   },
   "projects": {
-    "e:\\Our Project Data\\project-e\\API\\API.csproj": {
+    "E:\\Our Project Data\\project-e\\API\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "e:\\Our Project Data\\project-e\\API\\API.csproj",
+        "projectUniqueName": "E:\\Our Project Data\\project-e\\API\\API.csproj",
         "projectName": "API",
-        "projectPath": "e:\\Our Project Data\\project-e\\API\\API.csproj",
+        "projectPath": "E:\\Our Project Data\\project-e\\API\\API.csproj",
         "packagesPath": "C:\\Users\\datagain-mayank\\.nuget\\packages\\",
-        "outputPath": "e:\\Our Project Data\\project-e\\API\\obj\\",
+        "outputPath": "E:\\Our Project Data\\project-e\\API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\datagain-mayank\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -27,11 +27,11 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "e:\\Our Project Data\\project-e\\core\\core.csproj": {
-                "projectPath": "e:\\Our Project Data\\project-e\\core\\core.csproj"
+              "E:\\Our Project Data\\project-e\\core\\core.csproj": {
+                "projectPath": "E:\\Our Project Data\\project-e\\core\\core.csproj"
               },
-              "e:\\Our Project Data\\project-e\\Infrastructure\\infrastructure.csproj": {
-                "projectPath": "e:\\Our Project Data\\project-e\\Infrastructure\\infrastructure.csproj"
+              "E:\\Our Project Data\\project-e\\Infrastructure\\infrastructure.csproj": {
+                "projectPath": "E:\\Our Project Data\\project-e\\Infrastructure\\infrastructure.csproj"
               }
             }
           }
@@ -94,18 +94,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "e:\\Our Project Data\\project-e\\core\\core.csproj": {
+    "E:\\Our Project Data\\project-e\\core\\core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "e:\\Our Project Data\\project-e\\core\\core.csproj",
+        "projectUniqueName": "E:\\Our Project Data\\project-e\\core\\core.csproj",
         "projectName": "core",
-        "projectPath": "e:\\Our Project Data\\project-e\\core\\core.csproj",
+        "projectPath": "E:\\Our Project Data\\project-e\\core\\core.csproj",
         "packagesPath": "C:\\Users\\datagain-mayank\\.nuget\\packages\\",
-        "outputPath": "e:\\Our Project Data\\project-e\\core\\obj\\",
+        "outputPath": "E:\\Our Project Data\\project-e\\core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\datagain-mayank\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -149,18 +149,18 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "e:\\Our Project Data\\project-e\\Infrastructure\\infrastructure.csproj": {
+    "E:\\Our Project Data\\project-e\\infrastructure\\infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "e:\\Our Project Data\\project-e\\Infrastructure\\infrastructure.csproj",
+        "projectUniqueName": "E:\\Our Project Data\\project-e\\infrastructure\\infrastructure.csproj",
         "projectName": "infrastructure",
-        "projectPath": "e:\\Our Project Data\\project-e\\Infrastructure\\infrastructure.csproj",
+        "projectPath": "E:\\Our Project Data\\project-e\\infrastructure\\infrastructure.csproj",
         "packagesPath": "C:\\Users\\datagain-mayank\\.nuget\\packages\\",
-        "outputPath": "e:\\Our Project Data\\project-e\\Infrastructure\\obj\\",
+        "outputPath": "E:\\Our Project Data\\project-e\\infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\datagain-mayank\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -176,8 +176,8 @@
         "frameworks": {
           "netstandard2.0": {
             "projectReferences": {
-              "e:\\Our Project Data\\project-e\\core\\core.csproj": {
-                "projectPath": "e:\\Our Project Data\\project-e\\core\\core.csproj"
+              "E:\\Our Project Data\\project-e\\Core\\core.csproj": {
+                "projectPath": "E:\\Our Project Data\\project-e\\Core\\core.csproj"
               }
             }
           }
@@ -220,7 +220,7 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
         }
       }
     }

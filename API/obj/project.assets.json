@@ -8477,8 +8477,8 @@
     },
     "infrastructure/1.0.0": {
       "type": "project",
-      "path": "../Infrastructure/infrastructure.csproj",
-      "msbuildProject": "../Infrastructure/infrastructure.csproj"
+      "path": "../infrastructure/infrastructure.csproj",
+      "msbuildProject": "../infrastructure/infrastructure.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -8500,11 +8500,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "e:\\Our Project Data\\project-e\\API\\API.csproj",
+      "projectUniqueName": "E:\\Our Project Data\\project-e\\API\\API.csproj",
       "projectName": "API",
-      "projectPath": "e:\\Our Project Data\\project-e\\API\\API.csproj",
+      "projectPath": "E:\\Our Project Data\\project-e\\API\\API.csproj",
       "packagesPath": "C:\\Users\\datagain-mayank\\.nuget\\packages\\",
-      "outputPath": "e:\\Our Project Data\\project-e\\API\\obj\\",
+      "outputPath": "E:\\Our Project Data\\project-e\\API\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\datagain-mayank\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -8520,11 +8520,11 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "e:\\Our Project Data\\project-e\\core\\core.csproj": {
-              "projectPath": "e:\\Our Project Data\\project-e\\core\\core.csproj"
+            "E:\\Our Project Data\\project-e\\core\\core.csproj": {
+              "projectPath": "E:\\Our Project Data\\project-e\\core\\core.csproj"
             },
-            "e:\\Our Project Data\\project-e\\Infrastructure\\infrastructure.csproj": {
-              "projectPath": "e:\\Our Project Data\\project-e\\Infrastructure\\infrastructure.csproj"
+            "E:\\Our Project Data\\project-e\\Infrastructure\\infrastructure.csproj": {
+              "projectPath": "E:\\Our Project Data\\project-e\\Infrastructure\\infrastructure.csproj"
             }
           }
         }
@@ -8587,7 +8587,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
       }
     }
   },

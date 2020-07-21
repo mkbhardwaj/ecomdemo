@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "X89RPRCAmW5u/4IMa/lhOLVZtYYtHCc3lCypgqVzLSp0PP4pgBGmEhKRR3MeS1L1FsJV1eTwMF1BaCzLNIGU4w==",
+  "dgSpecHash": "J4Ru53QhcTywxXuIbmrgwqVmD3qTAdMDTTv5XRCBTdngHnphh4Mj6lykhglWilkZs7f7dF6pj8GR911UZZg1pQ==",
   "success": true,
-  "projectFilePath": "e:\\Our Project Data\\project-e\\Core\\core.csproj",
+  "projectFilePath": "E:\\Our Project Data\\project-e\\core\\core.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\datagain-mayank\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\datagain-mayank\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
