@@ -8477,8 +8477,8 @@
     },
     "infrastructure/1.0.0": {
       "type": "project",
-      "path": "../infrastructure/infrastructure.csproj",
-      "msbuildProject": "../infrastructure/infrastructure.csproj"
+      "path": "../Infrastructure/infrastructure.csproj",
+      "msbuildProject": "../Infrastructure/infrastructure.csproj"
     }
   },
   "projectFileDependencyGroups": {
