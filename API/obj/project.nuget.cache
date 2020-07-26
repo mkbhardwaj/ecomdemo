@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Mho+ZqLP0WkIylOqGBBzFrdp78zE5Gv3u4nG/IN5UWFwjri917YGq8fU5jHBowIja7jhaUwqZE6LcDWbeeTErA==",
+  "dgSpecHash": "jme0sC1jr0AxSSgkSoCMkA2OO1aHRigMjStnzIbj6zcVZBHtkrHallAMhgygcwCyPmmePrCJEyLJU/S9RjdXUA==",
   "success": true,
-  "projectFilePath": "E:\\Our Project Data\\project-e\\API\\API.csproj",
+  "projectFilePath": "E:\\Our Project Data\\project-e\\api\\API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\datagain-mayank\\.nuget\\packages\\automapper\\9.0.0\\automapper.9.0.0.nupkg.sha512",
     "C:\\Users\\datagain-mayank\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\7.0.0\\automapper.extensions.microsoft.dependencyinjection.7.0.0.nupkg.sha512",

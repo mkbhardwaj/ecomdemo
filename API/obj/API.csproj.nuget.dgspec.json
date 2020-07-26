@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Our Project Data\\project-e\\API\\API.csproj": {}
+    "E:\\Our Project Data\\project-e\\api\\API.csproj": {}
   },
   "projects": {
-    "E:\\Our Project Data\\project-e\\API\\API.csproj": {
+    "E:\\Our Project Data\\project-e\\api\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Our Project Data\\project-e\\API\\API.csproj",
+        "projectUniqueName": "E:\\Our Project Data\\project-e\\api\\API.csproj",
         "projectName": "API",
-        "projectPath": "E:\\Our Project Data\\project-e\\API\\API.csproj",
+        "projectPath": "E:\\Our Project Data\\project-e\\api\\API.csproj",
         "packagesPath": "C:\\Users\\datagain-mayank\\.nuget\\packages\\",
-        "outputPath": "E:\\Our Project Data\\project-e\\API\\obj\\",
+        "outputPath": "E:\\Our Project Data\\project-e\\api\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\datagain-mayank\\AppData\\Roaming\\NuGet\\NuGet.Config",
