@@ -19,7 +19,7 @@ namespace API.Controllers
     //[Route("api/[controller]")] // [controller] will tell .net runtime to user controller name for the endpoint 
     public class ProductsController : BaseApiController
     {
-        private IGenericRepository<Product> _prodcutRepo { set; get; }
+        private IGenericRepository<Product>_prodcutRepo { set; get; }
         private IGenericRepository<ProductBrand> _prodcutBrandRepo { set; get; }
         private IGenericRepository<ProductType> _prodcutTypeRepo { set; get; }
         private IMapper _mapper { set; get; }
