@@ -8,15 +8,16 @@ import { NotFoundComponent } from './core/not-found/not-found.component';
 
 const routes: Routes = [
   {
-    path: '', component: HomeComponent
+    path: '', component: HomeComponent, data: {breadcrumb : 'Home'}
   },
   {
-    path: 'shop', loadChildren: () => import('./shop/shop.module').then(m => m.ShopModule)
+    path: 'shop', loadChildren: () => import('./shop/shop.module').then(m => m.ShopModule),
+    data: {breadcrumb : 'Shop'}
   },
-  {path: 'test-error', component: TestErrorComponent},
-  {path: 'server-error', component: ServerErrorComponent},
-  {path: 'not-found', component: NotFoundComponent},
-  {path: '**', redirectTo: '' , pathMatch: 'full'}
+  {path: 'test-error', component: TestErrorComponent, data: {breadcrumb : 'Test Error'}},
+  {path: 'server-error', component: ServerErrorComponent, data: {breadcrumb : 'Server Error'}},
+  {path: 'not-found', component: NotFoundComponent, data: {breadcrumb : 'Not Found'}},
+  {path: '**', redirectTo: 'not-found' , pathMatch: 'full'}
 ];
 
 @NgModule({
